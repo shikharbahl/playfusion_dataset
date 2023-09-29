@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+playfusion/__init__.py
+playfusion/create_example_data.py
+playfusion/playfusion.py
+playfusion.egg-info/PKG-INFO
+playfusion.egg-info/SOURCES.txt
+playfusion.egg-info/dependency_links.txt
+playfusion.egg-info/top_level.txt
