@@ -2,7 +2,7 @@
 
 
 
-Dataset from [Skill Acquisition via Diffusion from Language-Annotated Play](https://play-fusion.github.io/) 
+Dataset from [Skill Acquisition via Diffusion from Language-Annotated Play](https://play-fusion.github.io) 
 
 Citation: 
 
